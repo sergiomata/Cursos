@@ -1,0 +1,6 @@
+
+# Ignorar todas las carpetas .terraform
+**/.terraform/
+
+# Ignorar todos los archivos .pem
+*.pem
